@@ -1,26 +1,25 @@
-<a name="readme-top"></a>
+<a name="page_top"></a>
 
-<br><br>
+<br>
+<br>
 
 <div align="center" style="text-align: center;">
-  <a href="https://iamprogrammer.lk">
-    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammer.lk" width="200">
+  <a href="https://{{PROJECT_URL}}">
+    <img src="https://{{PROFILE_IMAGE_URL}}" alt="{{PROJECT_URL}}" width="200">
   </a>
 </div>
 
-<br><br>
+<br>
+<br>
 
 # {{PROJECT_TITLE}}
 
 {{PROJECT_DESCRIPTION}}
 
-> [!TIP]
->
-> ## ⭐ Star This Repository
->
-> If you enjoy this project and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
+<br>
+<br>
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -33,7 +32,10 @@
 
 - [Contributors][contributors]
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -46,9 +48,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Make your changes with clear commit messages (`git commit -m "Add some AmazingFeature"`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create a feature branch (`git checkout -b feature/amazing_feature`)
+3. Make your changes with clear commit messages (`git commit -m "Add some amazing feature"`)
+4. Push to the Branch (`git push origin feature/amazing_feature`)
 5. Submit a pull request with description of changes
 
 Read more about,
@@ -63,7 +65,9 @@ Read more about,
 Get in touch with the project developers and the community through our [Reddit.com Community][community] forum.
 
 <br>
-<p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -77,7 +81,10 @@ Please read the [support.md][support] and [governance.md][governance] for more d
 > Please do not report security vulnerabilities through public **Community Forum**, **GitHub Issues**,
 > **Discussions**, or **Pull Requests**. Instead, use [`SECURITY ADVISORIES`][security_advisories]
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -92,13 +99,16 @@ and be bound by the terms of the [Contributor License Agreement][contributor_lic
 > This project is not a platform for discussing politics, social issues, race, religion, gender, or sexual orientation.
 > Please keep those discussions elsewhere.
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
 # ⚖️ License
 
-### This work is distributed under the [MIT License 1.0][license] License.
+This work is distributed under the [MIT License v1.0 (MIT)][license] License.
 
 See [license][license_md] for more information.
 
@@ -124,7 +134,10 @@ See [license][license_md] for more information.
 - ⛔ ~~Trademark use~~
 - 🚫 Warranty
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -133,7 +146,10 @@ See [license][license_md] for more information.
 - Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][iamprogrammer_github].
 - Copyright © 2025 ❤️ [Contributors][contributors].
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
 
 ---
 
@@ -141,7 +157,7 @@ See [license][license_md] for more information.
 [iamprogrammer_url]: https://iamprogrammer.lk
 [iamprogrammer_email]: mailto:contact@iamprogrammer.lk
 [contributors]: /../../graphs/contributors
-[community]: https://reddit.com/r/iamprogrammerlk
+[community]: https://reddit.com/r/{{GITHUB_USERNAME}}
 [contributing]: /contributing.md
 [governance]: /governance.md
 [support]: /support.md
@@ -149,6 +165,6 @@ See [license][license_md] for more information.
 [code_of_conduct]: /code_of_conduct.md
 [security]: /security.md
 [contributor_license_agreement]: /contributor_license_agreement.md
-[license]: https://choosealicense.com/licenses/mit/
+[license]: https://creativecommons.org/licenses/by/4.0/
 [license_md]: /license.md
 [security_advisories]: /../../security/advisories/new
