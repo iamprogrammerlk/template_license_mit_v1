@@ -5,7 +5,7 @@
 
 <div align="center" style="text-align: center;">
   <a href="https://{{PROJECT_URL}}">
-    <img src="https://{{PROFILE_IMAGE_URL}}" alt="{{PROJECT_URL}}" width="200">
+    <img src="resource/cover_3840x2160.png" alt="{{PROJECT_TITLE}}" width="100%">
   </a>
 </div>
 
@@ -31,6 +31,27 @@
   - ✉️ [contact@iamprogrammer.lk][iamprogrammer_email]
 
 - [Contributors][contributors]
+
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
+
+---
+
+# 📝 Documentation
+
+### 📚 Official Documentation: [Our Documentation][documentation]
+
+### 🚀 Getting Started Guide: [Quickstart][documentation]
+
+### 💡 Examples & Demos: [Examples][documentation]
+
+### 🎬 Tutorials & Guides: [Our Tutorials Page][youtube]
+
+### 🎥 Video Tutorials: [YouTube Channel][youtube]
+
+### 📖 API Reference: [API Documentation][api_documentation]
 
 <br>
 <br>
@@ -157,7 +178,6 @@ See [license][license_md] for more information.
 [iamprogrammer_url]: https://iamprogrammer.lk
 [iamprogrammer_email]: mailto:contact@iamprogrammer.lk
 [contributors]: /../../graphs/contributors
-[community]: https://reddit.com/r/{{GITHUB_USERNAME}}
 [contributing]: /contributing.md
 [governance]: /governance.md
 [support]: /support.md
@@ -168,3 +188,7 @@ See [license][license_md] for more information.
 [license]: https://creativecommons.org/licenses/by/4.0/
 [license_md]: /license.md
 [security_advisories]: /../../security/advisories/new
+[community]: https://reddit.com/r/{{PROJECT_GITHUB_USERNAME}}
+[documentation]: https://{{PROJECT_DOCUMENTATION_URL}}
+[api_documentation]: https://{{PROJECT_API_DOCUMENTATION_URL}}
+[youtube]: https://youtube.com/@{{PROJECT_YOUTUBE_USERNAME}}
