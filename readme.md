@@ -23,22 +23,6 @@
 
 ---
 
-# 💕 Credits
-
-- I am Programmer [@iamprogrammerlk][iamprogrammer_github]
-
-  - 🌐 [iamprogrammer.lk][iamprogrammer_url]
-  - ✉️ [contact@iamprogrammer.lk][iamprogrammer_email]
-
-- [Contributors][contributors]
-
-<br>
-<br>
-
-<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
-
----
-
 # 📝 Documentation
 
 ### 📚 Official Documentation: [Our Documentation][documentation]
@@ -154,6 +138,22 @@ See [license][license_md] for more information.
 - 🚫 Liability
 - ⛔ ~~Trademark use~~
 - 🚫 Warranty
+
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
+
+---
+
+# 💕 Credits
+
+- I am Programmer [@iamprogrammerlk][iamprogrammer_github]
+
+  - 🌐 [iamprogrammer.lk][iamprogrammer_url]
+  - ✉️ [contact@iamprogrammer.lk][iamprogrammer_email]
+
+- [Contributors][contributors]
 
 <br>
 <br>
